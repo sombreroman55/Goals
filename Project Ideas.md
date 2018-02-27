@@ -1,10 +1,10 @@
-#PROGRAMMING PROJECT IDEAS
+# PROGRAMMING PROJECT IDEAS
 
-##Massive Projects [1+ year(s)]
+## Massive Projects [1+ year(s)]
 * [ ] A toy implementation of an operating system
 * [ ] Modal (bullet hell shooter pitch from Capstone) (time mainly as a result of making any kind of art assets)
 
-##Big Projects [3+ months]
+## Big Projects [3+ months]
 * [ ] Drum exercise generator for iOS in Swift
 * [ ] Then do it again for Android in Java
 * [ ] Text editor
@@ -14,13 +14,13 @@
 * [ ] iOS module player (XMPlay for iPhone/iPad/mac)
 * [ ] Shitty FLAC decoder/player
 
-##Medium Projects [3-8 weeks]
+## Medium Projects [3-8 weeks]
 * [ ] Web crawler that updates and indexes solved programming challenges on various websites such as Kattis, Project Euler, UVa Online Judge, etc. Very similar to [this page](https://algo.is/solved-problems/).
 * [ ] Tetris using SDL (or maybe SFML)
 * [ ] Finish Panello with new assets
 * [ ] GitHub random page selector + note taking program to explain what the page is doing in English to practice deciphering source code
 
-##Small Projects [1-3 weeks]
+## Small Projects [1-3 weeks]
 * [ ] Implement the following data structures in C/C++:
 	* [ ] Stack
 	* [ ] Queue

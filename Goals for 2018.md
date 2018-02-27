@@ -12,11 +12,11 @@ As computer science and engineering is such a vast field, that fact as well as m
 
 More specifically, I'd like to split the focus across several **key areas**, which for me at the moment consist of **Languages**, **Topics**, and **Projects**. **Languages** is the study of a programming language, learning its syntax and how to express my code ideas in that language. **Topics** are various CS topics of which I want a deeper knowledge. Examples might include algorithms, data structures, databases, operating systems, graphics, etc. **Projects** is rather self-explanatory, but having projects ranging from toy to medium-large-ish in size are good for creating a code portfolio to show to any and all potential employers, which leads me to the true goal of all this: 
 
-#GET A JOB THIS YEAR!
+# GET A JOB THIS YEAR!
 
 ---
 
-##Current Studies
+## Current Studies
 
 | Key Area  | Focus | Book/Course |
 |-----------|-------|-------------|
@@ -24,11 +24,11 @@ More specifically, I'd like to split the focus across several **key areas**, whi
 | Topics	  | Data Structures/Algorithms | |
 | Projects  | Who fuggin knows | |
 
-##Languages Reading List
+## Languages Reading List
 
-##Topics Reading List
+## Topics Reading List
 
-##Other Reading List
+## Other Reading List
 
 - The Complete Fiction - H.P. Lovecraft
 - The Count of Monte Cristo - Alexandre Dumas
