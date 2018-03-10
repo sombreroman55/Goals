@@ -7,12 +7,13 @@
 ## Big Projects [3+ months]
 * [ ] Drum exercise generator for iOS in Swift
 * [ ] Then do it again for Android in Java
-* [ ] Text editor
-* [ ] SNES C compiler
+* [ ] Text editor in Golang
+* [ ] C to SNES assembly (65c816) compiler
 * [ ] Remake Panello using Views in Swift rather than using OpenGL
 * [ ] iOS SPC/video game music player app
 * [ ] iOS module player (XMPlay for iPhone/iPad/mac)
 * [ ] Shitty FLAC decoder/player
+* [ ] Game Boy emulator
 
 ## Medium Projects [3-8 weeks]
 * [ ] Web crawler that updates and indexes solved programming challenges on various websites such as Kattis, Project Euler, UVa Online Judge, etc. Very similar to [this page](https://algo.is/solved-problems/).
