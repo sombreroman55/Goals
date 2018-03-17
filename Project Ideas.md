@@ -1,5 +1,7 @@
 # PROGRAMMING PROJECT IDEAS
 
+Most if not all of these are just cases of me reinventing the wheel as an exercise. Hopefully one day I'll have an original idea. Links to project repos will be added to the projects as they progress.
+
 ## Massive Projects [1+ year(s)]
 * [ ] A toy implementation of an operating system
 * [ ] Modal (bullet hell shooter pitch from Capstone) (time mainly as a result of making any kind of art assets)
@@ -14,6 +16,7 @@
 * [ ] iOS module player (XMPlay for iPhone/iPad/mac)
 * [ ] Shitty FLAC decoder/player
 * [ ] Game Boy emulator
+* [ ] Module player
 
 ## Medium Projects [3-8 weeks]
 * [ ] Web crawler that updates and indexes solved programming challenges on various websites such as Kattis, Project Euler, UVa Online Judge, etc. Very similar to [this page](https://algo.is/solved-problems/).
