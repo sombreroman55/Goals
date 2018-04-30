@@ -20,6 +20,7 @@
 * [ ] Tetris using SDL (or maybe SFML)
 * [ ] Finish Panello with new assets
 * [ ] GitHub random page selector + note taking program to explain what the page is doing in English to practice deciphering source code
+* [ ] Old /g/ weekly programming thread challenges
 
 ## Small Projects [1-3 weeks]
 * [ ] Implement the following data structures in C/C++:
@@ -36,7 +37,7 @@
 	* [ ] Red-Black Tree
 	* [ ] Priority Queue/Heap
 	* [ ] Segment Tree
-	* [ ] Trie
+	* [x] Trie (Used in several competitive programming problems/puzzles I've completed)
 	* [ ] Suffix Array
 	* [ ] Suffix Tree
 	* [ ] Splay Tree
@@ -47,6 +48,5 @@
 * [ ] Chrome extension to block access to websites after a certain amount of time is spent on them
 * [ ] To add on to the last idea, an app the filters out any kind of ASMR video recommendation on YouTube
 * [ ] Vaporwave vim colorscheme
-* [ ] Old /g/ weekly programming thread challenges
 * [ ] GitHub random page selector
 * [ ] UVa CLI submission program
