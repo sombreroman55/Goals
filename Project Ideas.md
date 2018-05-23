@@ -26,7 +26,27 @@ Most if not all of these are just cases of me reinventing the wheel as an exerci
 * [ ] Old /g/ weekly programming thread challenges
 
 ## Small Projects [1-3 weeks]
-* [ ] Implement the following data structures in C/C++:
+* [ ] Implement the following data structures in C++ with classes in proper OOP style:
+	* [x] Stack
+	* [x] Queue
+	* [ ] Singly Linked List
+	* [ ] Doubly Linked List
+	* [ ] Doubly Linked List with only one pointer
+	* [ ] Binary Tree
+	* [ ] Binary Search Tree
+	* [x] Union-Find Disjoint Sets
+	* [ ] Hash Table
+	* [ ] AVL Tree
+	* [ ] Red-Black Tree
+	* [ ] Priority Queue/Heap
+	* [ ] Segment Tree
+	* [ ] Trie
+	* [ ] Suffix Array
+	* [ ] Suffix Tree
+	* [ ] Splay Tree
+	* [ ] B Tree
+	* [ ] Quadtree
+* [ ] Implement these same data structures in C with generic type support where applicable:
 	* [ ] Stack
 	* [ ] Queue
 	* [ ] Singly Linked List
@@ -40,7 +60,7 @@ Most if not all of these are just cases of me reinventing the wheel as an exerci
 	* [ ] Red-Black Tree
 	* [ ] Priority Queue/Heap
 	* [ ] Segment Tree
-	* [x] Trie (Used in several competitive programming problems/puzzles I've completed)
+	* [x] Trie
 	* [ ] Suffix Array
 	* [ ] Suffix Tree
 	* [ ] Splay Tree
